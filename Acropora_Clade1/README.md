@@ -6,4 +6,6 @@ This directory is for Chapter 3, titled "Systematics of the earliest diverging c
 
 [2. SNP calling steps](2_SNPcalling.sh)
 
+[3. SPEEDEMON analysis](3_speedemon.sh)
 
+[4. sNMF, DAPC, RandomForest, t-SNE analyses (in R)](4_sNMF_DAPC_RF_tSNE.R)
