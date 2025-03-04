@@ -1,6 +1,4 @@
-# Repository to store scripts used in PhD thesis by Hanaka Mera
-
----
+## Repository to store scripts used in PhD thesis by Hanaka Mera
 
 [Chapter 2: Map UCE to genome](https://github.com/mhanaka/MapUCEtoGenome)
 
