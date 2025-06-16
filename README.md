@@ -4,4 +4,4 @@
 
 [Chapter 3: Acropora Clade1 phylogenomics](https://github.com/mhanaka/PhD_MS/tree/main/Acropora_Clade1)
 
-Chapter 4: Montipora phylogenomics
+Chapter 4: Montipora and Anacropora phylogenomics
