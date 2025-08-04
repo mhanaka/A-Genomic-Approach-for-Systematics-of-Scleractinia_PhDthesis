@@ -1,6 +1,6 @@
 #!/bin/bash
 
-#Script for phylogenetics with multi-species coalescent using target capture of ultraconserved elements (UCEs) and phylogenetic reconstruction with maximum likelihood
+#Script for phylogenetics with multi-species coalescent using target capture of ultraconserved elements (UCEs)
 #Using genus Montipora and Anacropora data (Scleractinia: Acroporidae)
 #Author: Hanaka Mera   mailto:hanaka.mera[@]my.jcu.edu.au
     #Tutorials followed (in this script):
