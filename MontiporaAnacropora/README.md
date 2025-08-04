@@ -4,6 +4,6 @@ This directory is for Chapter 4, titled "Phylogenomic study of Montipora and Ana
 
 ---
 
-1. Data processing steps 
+1. For data processing and SNP calling steps, see [Chapter 3: Acropora Clade1 phylogenomics](https://github.com/mhanaka/PhD_MS/tree/main/Acropora_Clade1)
 
-2. 
+2. [MSC phylogenetics](2_MSCphylogenetics.sh)
