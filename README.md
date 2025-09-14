@@ -2,7 +2,7 @@ This is a repository to store scripts used in a PhD thesis by Hanaka Mera entitl
 
 Please follow the links below for corresponding data chapters.
 
-[Chapter 2: Map UCE to genome](https://github.com/mhanaka/MapUCEtoGenome)
+[Chapter 2: Map UCE to genome](https://github.com/mhanaka/Map-UCE-to-Genome)
 
 [Chapter 3: Acropora Clade1 phylogenomics](https://github.com/mhanaka/A-Genomic-Approach-for-Systematics-of-Scleractinia_PhDthesis/tree/main/Acropora_Clade1)
 
