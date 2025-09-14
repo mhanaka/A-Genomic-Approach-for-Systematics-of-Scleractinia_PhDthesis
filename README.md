@@ -1,5 +1,3 @@
-## Repository to store scripts used in PhD thesis by Hanaka Mera
-
 This is a repository to store scripts used in a PhD thesis by Hanaka Mera entitled "A Genomic Approach for Systematics of Scleractinia (Anthozoa: Hexacorallia)".
 
 Please follow the links below for corresponding data chapters.
